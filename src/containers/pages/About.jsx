@@ -6,7 +6,7 @@ function About() {
   return (
     <Layout>
       <Navbar />
-      <div>About</div>
+      <div className="pt-28">About</div>
       <Footer />
     </Layout>
   )

@@ -6,7 +6,7 @@ function Services() {
   return (
     <Layout>
       <Navbar />
-      <div>Services</div>
+      <div className="pt-28">Services</div>
       <Footer />
     </Layout>
   )

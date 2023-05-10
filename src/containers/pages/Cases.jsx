@@ -6,7 +6,7 @@ function Cases() {
   return (
     <Layout>
       <Navbar />
-      <div>Cases</div>
+      <div className="pt-28">Cases</div>
       <Footer />
     </Layout>
   )
